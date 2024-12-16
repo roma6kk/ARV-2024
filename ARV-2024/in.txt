@@ -1,0 +1,75 @@
+int function max(int a, int b)
+{
+	new int res = 0;	
+	if: a > b #
+	istrue {
+		res = a;
+	}
+	isfalse {
+		res = b;
+	} #
+	return res;
+}
+
+main
+{
+	new int a = 16xF;
+	print a;
+	newline;	
+
+	new int c;
+	c = max(2, 5) + 1;
+	new string str = "max(2, 5): ";
+	print str;
+	print c;
+	newline;
+
+	new int aa = 4;
+	new int ab = 2;
+	new int cc;
+	cc = aa * ab;
+	print "4 or 2: ";
+	print cc;
+	newline;
+
+	new int cd;
+	cd = 4 & 6;
+	print "4 and 6: ";
+	print cd;	
+	newline;
+
+	new int ce;
+	ce = ! 3;
+	print "not 3: ";
+	print ce;
+	newline;
+	
+	new string stra = "ded";
+	new string strb = "ded";
+	new string strc = "deed";
+	new string strd = "deb";
+	new int resaa;
+
+	print "strcmp(ded, ded): ";
+	resaa = strcmpp(stra, strb);
+	print resaa;
+	newline;
+	
+	print "strcmp(ded, deed): ";
+	resaa = strcmpp(stra, strc, ce);
+	print resaa;
+	newline;
+	
+	print "strcmp(ded, deeb): ";
+	resaa = strcmpp(stra, strd);
+	print resaa;
+	newline;
+	
+	resaa = lenght("123456");
+	print "lenght(123456): ";
+	print resaa;
+	newline;
+
+	newline;
+}
+

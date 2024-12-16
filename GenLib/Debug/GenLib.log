@@ -1,0 +1,23 @@
+﻿Сборка начата 15.12.2024 16:25:16.
+Уровень детализации журнала: Normal.     1>Проект "D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\GenLib\GenLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\GenLib.tlog\GenLib.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\GenLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\GenLib.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\GenLib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt GenLib.cpp
+         GenLib.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\Lib.exe /OUT:"D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\GenLib.lib" /NOLOGO /MACHINE:X86 Debug\GenLib.obj
+         GenLib.vcxproj -> D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\GenLib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\GenLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\GenLib.tlog\GenLib.lastbuildstate".
+     1>Сборка проекта "D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\GenLib\GenLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.10

@@ -1,0 +1,4 @@
+int function func(int a)
+{
+    return a;
+}

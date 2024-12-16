@@ -1,0 +1,12 @@
+int function func(int a)
+{
+    new int c;
+    c = a + 1;
+    return c;
+}
+main
+{{
+    new int d;
+    d = func(1);
+    
+}

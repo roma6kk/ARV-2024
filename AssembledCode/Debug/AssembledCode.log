@@ -1,0 +1,22 @@
+﻿Сборка начата 16.12.2024 11:08:54.
+Уровень детализации журнала: Normal.     1>Проект "D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\AssembledCode\AssembledCode.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\AssembledCode.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\AssembledCode.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling AssembledCode.asm...
+         cmd.exe /C "C:\Users\romaa\AppData\Local\Temp\tmpe7cead07c69e4a2daaa94db557740af7.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\AssembledCode.obj" /W3 /errorReport:prompt  /TaAssembledCode.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\AssembledCode.exe" /INCREMENTAL /ILK:"Debug\AssembledCode.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\AssembledCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\AssembledCode.lib" /MACHINE:X86 Debug\AssembledCode.obj
+         AssembledCode.vcxproj -> D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\Debug\AssembledCode.exe
+       FinalizeBuildStatus:
+         Файл "Debug\AssembledCode.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\AssembledCode.tlog\AssembledCode.lastbuildstate".
+     1>Сборка проекта "D:\Poman\уник\КПО КУРСАЧ\ITS_TIME_TO_DIE\ARV-2024\AssembledCode\AssembledCode.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.35

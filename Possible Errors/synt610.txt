@@ -1,0 +1,20 @@
+int function func(int a)
+{
+    new int c;
+    c = a + 1;
+    return c;
+}
+main
+{
+    new int d;
+    d = 1;
+    if: d #
+    istrue
+    {
+        func(2);
+    }
+    isfalse
+    {
+        func(1);
+    }#
+}
